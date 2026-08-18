@@ -3,6 +3,7 @@ title: "TEKNOFEST Roboligue — Mechanical Design & Prototyping"
 excerpt: "Designed and fabricated 3D-printed components for a robotic car and arm as part of ADASTRA's TEKNOFEST Roboligue team.<br/><img src='https://img.youtube.com/vi/LtVXwBy1Qgw/hqdefault.jpg'>"
 collection: portfolio
 date: 2026-07-31
+order: 2
 ---
 
 **Team:** ADASTRA, Sakarya University &nbsp;|&nbsp; **Role:** Mechanical Design & Prototyping Team Member &nbsp;|&nbsp; **April 2026 – Present**

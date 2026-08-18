@@ -3,6 +3,7 @@ title: "LS-DYNA Impact & Crashworthiness Simulations"
 excerpt: "Explicit-dynamics finite element simulations in LS-DYNA covering impact, blast, and mechanical characterization problems relevant to my crashworthiness and energy-absorption research.<br/><img src='/images/lsdyna/compression-image.jpg'>"
 collection: portfolio
 date: 2025-11-01
+order: 1
 ---
 
 **Lab:** MMY Structural Mechanics & AM Research Lab, Sakarya University

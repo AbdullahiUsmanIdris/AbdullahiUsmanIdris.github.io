@@ -3,6 +3,7 @@ title: "Doum Palm Shell–Recycled LDPE Composite for Crash Helmet Applications"
 excerpt: "Undergraduate thesis and research programme developing a natural fiber-recycled polymer composite for crash helmet applications, achieving 66.67 kJ/m² peak impact strength.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 date: 2022-11-01
+order: 5
 ---
 
 **Institution:** Abubakar Tafawa Balewa University (ATBU), Bauchi, Nigeria &nbsp;|&nbsp; **Nov 2022 – Aug 2023**
