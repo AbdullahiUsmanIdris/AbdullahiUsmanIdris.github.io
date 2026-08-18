@@ -20,7 +20,7 @@ Education
 * **M.Sc. in Mechanical Design and Manufacturing**, Sakarya University, Sakarya, Türkiye — *Sep 2025 – Jul 2027 (Expected)*
   * CGPA: 3.5/4.0 (Top 5%) &middot; Distinction
   * Thesis: *Investigation of the Impact Resistance of Vacuum-Formed and PU Resin Foam-Reinforced 3D-Printed Chain-Fabrics*
-  * Supervisor: Asst. Prof. Dr. Muhammet Muaz Yalçın
+  * Supervisor: Assoc. Prof. Dr. Muhammet Muaz Yalçın
 
 * **Exchange Student, Mechanical Engineering (Erasmus+)**, VŠB – Technical University of Ostrava, Ostrava, Czech Republic — *Feb 2027 – May 2027 (Expected)*
   * Erasmus+ Scholar
@@ -67,9 +67,17 @@ Professional and Industrial Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for category in site.publication_category %}
+  {% assign cat_pubs = site.publications | where: "category", category[0] | reverse %}
+  {% if cat_pubs.size > 0 %}
+### {{ category[1].title }}
+<ul>
+    {% for post in cat_pubs %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+</ul>
+  {% endif %}
+{% endfor %}
 
 Selected Engineering Projects
 ======
