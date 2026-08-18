@@ -21,3 +21,7 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Raw LS-DYNA source clips too large for GitHub (>100MB). Compress and copy
+# into images/lsdyna/ (which IS tracked) once smaller versions are ready.
+/images/LS DYNA/

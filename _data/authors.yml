@@ -1,18 +1,5 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#
+# This file is used for multi-author blogs. On a single-author site like this
+# one, posts fall back to the site-wide `author` block in _config.yml, so this
+# file is left empty unless a guest author needs to be credited on a post.
