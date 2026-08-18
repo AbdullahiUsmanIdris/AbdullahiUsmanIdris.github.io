@@ -74,8 +74,8 @@ Publications
 Selected Engineering Projects
 ======
 See the [Portfolio](/portfolio/) page for full write-ups.
-* **TEKNOFEST Unmanned Surface Vehicle** — Design & Additive Manufacturing Lead, ADASTRA, Sakarya University — *Sep 2024 – Present*
-* **TEKNOFEST Roboligue** — Mechanical Design & Prototyping Team Member, ADASTRA, Sakarya University — *Sep 2024 – Present*
+* **TEKNOFEST Unmanned Surface Vehicle** — Design & Additive Manufacturing Lead, ADASTRA, Sakarya University — *Feb 2026 – Present*
+* **TEKNOFEST Roboligue** — Mechanical Design & Prototyping Team Member, ADASTRA, Sakarya University — *April 2026 – Present*
 
 Technical Skills
 ======
