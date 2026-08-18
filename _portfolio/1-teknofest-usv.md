@@ -5,7 +5,7 @@ collection: portfolio
 date: 2024-09-01
 ---
 
-**Team:** ADASTRA, Sakarya University &nbsp;|&nbsp; **Role:** Design & Additive Manufacturing Lead &nbsp;|&nbsp; **Sep 2024 – Present**
+**Team:** ADASTRA, Sakarya University &nbsp;|&nbsp; **Role:** Design & Additive Manufacturing Lead &nbsp;|&nbsp; **Feb 2026 – Present**
 
 As Design & Additive Manufacturing Lead for ADASTRA's TEKNOFEST Unmanned Surface Vehicle (USV) team, I led mechanical CAD design and FDM prototyping of two hull components, the electronics enclosure, and wings for the vehicle.
 
