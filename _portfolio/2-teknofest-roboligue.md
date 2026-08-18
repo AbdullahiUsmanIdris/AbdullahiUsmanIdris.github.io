@@ -5,7 +5,7 @@ collection: portfolio
 date: 2024-09-02
 ---
 
-**Team:** ADASTRA, Sakarya University &nbsp;|&nbsp; **Role:** Mechanical Design & Prototyping Team Member &nbsp;|&nbsp; **Sep 2024 – Present**
+**Team:** ADASTRA, Sakarya University &nbsp;|&nbsp; **Role:** Mechanical Design & Prototyping Team Member &nbsp;|&nbsp; **Feb 2026 – Present**
 
 As part of ADASTRA's TEKNOFEST Roboligue team, I designed and fabricated 3D-printed components for a robotic car and arm, translating functional requirements into manufacturable CAD models.
 
